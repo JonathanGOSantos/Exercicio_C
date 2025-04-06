@@ -1,0 +1,1 @@
+*Exercício 1.1.* Execute o programa obeso.c.
